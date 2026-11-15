@@ -1,0 +1,24 @@
+{
+  "sensors": [
+    "ari-2433",
+    "fec01",
+    "sensor bangalore",
+    "sensor calgary",
+    "sensor delhi",
+    "sensor hamirpur",
+    "5e8",
+    "ari-2172",
+    "ari-2263",
+    "pms5003-2018062702491"
+  ],
+  "configs": null,
+  "target_mode": "cal",
+  "ft_mode": "full",
+  "lr": 1e-05,
+  "steps": 1000,
+  "batch_size": 32,
+  "zero_shot": false,
+  "tag": "Y_cal_full",
+  "overwrite": false,
+  "model": "amazon/chronos-2"
+}

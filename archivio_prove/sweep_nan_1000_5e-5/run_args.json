@@ -1,0 +1,18 @@
+{
+  "sensors": [
+    "ari-2433",
+    "sensor delhi"
+  ],
+  "configs": [
+    "24:12"
+  ],
+  "target_mode": "nan",
+  "ft_mode": "full",
+  "lr": 5e-05,
+  "steps": 1000,
+  "batch_size": 32,
+  "zero_shot": false,
+  "tag": "sweep_nan_1000_5e-5",
+  "overwrite": false,
+  "model": "amazon/chronos-2"
+}

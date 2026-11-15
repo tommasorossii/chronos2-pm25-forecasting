@@ -1,0 +1,36 @@
+model,H,I,MAE
+CNN,1,72,19.04
+CNN,12,12,10.35
+CNN,24,12,12.15
+CNN,48,72,13.25
+CNN,72,512,15.42
+LSTM,1,12,19.85
+LSTM,12,24,10.59
+LSTM,24,24,10.83
+LSTM,48,24,13.1
+LSTM,72,72,13.87
+Transformer,1,24,19.44
+Transformer,12,24,10.0
+Transformer,24,24,11.02
+Transformer,48,72,12.8
+Transformer,72,48,13.92
+Granite_tuned,1,52,3.9
+Granite_tuned,12,52,8.59
+Granite_tuned,24,180,10.45
+Granite_tuned,48,180,11.43
+Granite_tuned,72,512,13.56
+Chronos-2 [Y_lcs_full],1,512,12.035611397495355
+Chronos-2 [Y_lcs_full],12,512,13.067769624746967
+Chronos-2 [Y_lcs_full],24,512,13.682489321310875
+Chronos-2 [Y_lcs_full],48,512,14.591750871964198
+Chronos-2 [Y_lcs_full],72,512,15.390252351925607
+Chronos-2 [Y_cal_full],1,72,12.385513636717189
+Chronos-2 [Y_cal_full],12,48,13.99949044102262
+Chronos-2 [Y_cal_full],24,48,14.356162291294844
+Chronos-2 [Y_cal_full],48,24,14.735438337464444
+Chronos-2 [Y_cal_full],72,48,15.619963204463172
+Chronos-2 [Y_cal_full_nan],1,512,12.829510647724227
+Chronos-2 [Y_cal_full_nan],12,512,15.778538612632024
+Chronos-2 [Y_cal_full_nan],24,512,15.311269158725803
+Chronos-2 [Y_cal_full_nan],48,512,16.153932956180554
+Chronos-2 [Y_cal_full_nan],72,512,16.953049582486877

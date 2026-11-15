@@ -1,0 +1,21 @@
+{
+  "sensor": "ari-2433",
+  "I": 24,
+  "H": 12,
+  "target_mode": "lcs",
+  "zero_shot": false,
+  "n": 3529,
+  "n_train": 2646,
+  "n_train_windows": 2611,
+  "ft_mode": "full",
+  "lr": 1e-05,
+  "num_steps": 200,
+  "batch_size": 32,
+  "ft_seconds": 15.2,
+  "pred_seconds": 0.5,
+  "MAE": 2.270844536814867,
+  "RMSE": 3.398031789562347,
+  "SMAPE": 0.4387531789727203,
+  "R2": 0.4212705219583469,
+  "N": 868
+}

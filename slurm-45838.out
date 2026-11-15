@@ -1,0 +1,15 @@
+Lette 167,302 righe, 32 sensori
+
+               sensor        city     n  train  test      start        end  % interp. tot  % interp. test
+             ari-2433       Aosta  3529   2646   883 2024-02-04 2024-06-30           0.82            1.70
+                fec01     Badajoz  1581   1185   396 2021-03-12 2021-05-17           0.32            0.25
+     sensor bangalore   Bangalore  9745   7308  2437 2019-06-21 2020-07-31          23.64           50.06
+       sensor calgary     Calgary  3361   2520   841 2018-12-07 2019-04-26           9.97            3.21
+         sensor delhi       Delhi 12681   9510  3171 2018-07-24 2020-01-03          40.82           53.33
+      sensor hamirpur    Hamirpur  7053   5289  1764 2020-03-22 2021-01-10          48.42           75.85
+                  5e8        Lima  1324    993   331 2021-11-15 2022-01-09           7.18           23.26
+             ari-2172      Reggio  2510   1882   628 2024-09-05 2024-12-18           0.00            0.00
+             ari-2263      Trento  2125   1593   532 2024-11-07 2025-02-03           0.33            0.75
+pms5003-2018062702491 Southampton  8831   6623  2208 2020-07-01 2021-07-03          17.00           12.00
+
+Salvato: /unimore_home/trossi/chronos2_pm25/data/osc_prepared.csv  (52,740 righe)

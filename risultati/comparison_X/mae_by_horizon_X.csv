@@ -1,0 +1,41 @@
+model,H,I,MAE
+CNN,1,48,12.9
+CNN,12,12,8.14
+CNN,24,72,8.92
+CNN,48,24,10.84
+CNN,72,512,11.29
+LSTM,1,12,13.17
+LSTM,12,24,7.8
+LSTM,24,24,9.05
+LSTM,48,24,10.23
+LSTM,72,512,10.46
+Transformer,1,12,12.92
+Transformer,12,24,7.23
+Transformer,24,48,8.86
+Transformer,48,24,9.82
+Transformer,72,48,10.74
+Granite_ZS,1,512,3.61
+Granite_ZS,12,180,6.41
+Granite_ZS,24,180,7.3
+Granite_ZS,48,512,8.29
+Granite_ZS,72,512,8.73
+Granite_tuned,1,52,3.32
+Granite_tuned,12,52,6.32
+Granite_tuned,24,180,7.43
+Granite_tuned,48,180,8.25
+Granite_tuned,72,512,9.56
+TimesFM_ZS,1,12,3.66
+TimesFM_ZS,12,12,4.96
+TimesFM_ZS,24,12,6.15
+TimesFM_ZS,48,512,8.25
+TimesFM_ZS,72,512,8.94
+Chronos-2 [X_zeroshot],1,512,4.627571686918784
+Chronos-2 [X_zeroshot],12,512,9.462759179720674
+Chronos-2 [X_zeroshot],24,512,11.531702810244417
+Chronos-2 [X_zeroshot],48,512,13.759946077595696
+Chronos-2 [X_zeroshot],72,512,14.85352994501424
+Chronos-2 [X_zeroshot_nan],1,512,6.414806013972807
+Chronos-2 [X_zeroshot_nan],12,512,11.277926822652304
+Chronos-2 [X_zeroshot_nan],24,512,13.105563520723816
+Chronos-2 [X_zeroshot_nan],48,512,15.093734490908917
+Chronos-2 [X_zeroshot_nan],72,512,16.088810728681374

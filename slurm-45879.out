@@ -1,0 +1,445 @@
+Run 'Y_cal_full': 220 job (10 sensori x 22 config)
+
+[1/220] ari-2433_I12_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[2/220] ari-2433_I12_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[3/220] ari-2433_I12_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[4/220] ari-2433_I24_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[5/220] ari-2433_I24_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[6/220] ari-2433_I24_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[7/220] ari-2433_I24_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[8/220] ari-2433_I48_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[9/220] ari-2433_I48_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[10/220] ari-2433_I48_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[11/220] ari-2433_I48_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[12/220] ari-2433_I48_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[13/220] ari-2433_I72_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[14/220] ari-2433_I72_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[15/220] ari-2433_I72_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[16/220] ari-2433_I72_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[17/220] ari-2433_I72_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[18/220] ari-2433_I512_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[19/220] ari-2433_I512_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[20/220] ari-2433_I512_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[21/220] ari-2433_I512_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[22/220] ari-2433_I512_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[23/220] fec01_I12_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[24/220] fec01_I12_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[25/220] fec01_I12_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[26/220] fec01_I24_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[27/220] fec01_I24_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[28/220] fec01_I24_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[29/220] fec01_I24_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[30/220] fec01_I48_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[31/220] fec01_I48_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[32/220] fec01_I48_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[33/220] fec01_I48_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[34/220] fec01_I48_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[35/220] fec01_I72_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[36/220] fec01_I72_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[37/220] fec01_I72_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[38/220] fec01_I72_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[39/220] fec01_I72_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[40/220] fec01_I512_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[41/220] fec01_I512_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[42/220] fec01_I512_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[43/220] fec01_I512_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[44/220] fec01_I512_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[45/220] sensor_bangalore_I12_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[46/220] sensor_bangalore_I12_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[47/220] sensor_bangalore_I12_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[48/220] sensor_bangalore_I24_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[49/220] sensor_bangalore_I24_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[50/220] sensor_bangalore_I24_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[51/220] sensor_bangalore_I24_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[52/220] sensor_bangalore_I48_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[53/220] sensor_bangalore_I48_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[54/220] sensor_bangalore_I48_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[55/220] sensor_bangalore_I48_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[56/220] sensor_bangalore_I48_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[57/220] sensor_bangalore_I72_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[58/220] sensor_bangalore_I72_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[59/220] sensor_bangalore_I72_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[60/220] sensor_bangalore_I72_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[61/220] sensor_bangalore_I72_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[62/220] sensor_bangalore_I512_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[63/220] sensor_bangalore_I512_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[64/220] sensor_bangalore_I512_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[65/220] sensor_bangalore_I512_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[66/220] sensor_bangalore_I512_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[67/220] sensor_calgary_I12_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[68/220] sensor_calgary_I12_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[69/220] sensor_calgary_I12_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[70/220] sensor_calgary_I24_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[71/220] sensor_calgary_I24_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[72/220] sensor_calgary_I24_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[73/220] sensor_calgary_I24_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[74/220] sensor_calgary_I48_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[75/220] sensor_calgary_I48_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[76/220] sensor_calgary_I48_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[77/220] sensor_calgary_I48_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[78/220] sensor_calgary_I48_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[79/220] sensor_calgary_I72_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[80/220] sensor_calgary_I72_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[81/220] sensor_calgary_I72_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[82/220] sensor_calgary_I72_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[83/220] sensor_calgary_I72_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[84/220] sensor_calgary_I512_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[85/220] sensor_calgary_I512_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[86/220] sensor_calgary_I512_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[87/220] sensor_calgary_I512_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[88/220] sensor_calgary_I512_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[89/220] sensor_delhi_I12_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[90/220] sensor_delhi_I12_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[91/220] sensor_delhi_I12_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[92/220] sensor_delhi_I24_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[93/220] sensor_delhi_I24_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[94/220] sensor_delhi_I24_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[95/220] sensor_delhi_I24_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[96/220] sensor_delhi_I48_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[97/220] sensor_delhi_I48_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[98/220] sensor_delhi_I48_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[99/220] sensor_delhi_I48_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[100/220] sensor_delhi_I48_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[101/220] sensor_delhi_I72_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[102/220] sensor_delhi_I72_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[103/220] sensor_delhi_I72_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[104/220] sensor_delhi_I72_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[105/220] sensor_delhi_I72_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[106/220] sensor_delhi_I512_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[107/220] sensor_delhi_I512_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[108/220] sensor_delhi_I512_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[109/220] sensor_delhi_I512_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[110/220] sensor_delhi_I512_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[111/220] sensor_hamirpur_I12_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[112/220] sensor_hamirpur_I12_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[113/220] sensor_hamirpur_I12_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[114/220] sensor_hamirpur_I24_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[115/220] sensor_hamirpur_I24_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[116/220] sensor_hamirpur_I24_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[117/220] sensor_hamirpur_I24_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[118/220] sensor_hamirpur_I48_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[119/220] sensor_hamirpur_I48_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[120/220] sensor_hamirpur_I48_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[121/220] sensor_hamirpur_I48_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[122/220] sensor_hamirpur_I48_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[123/220] sensor_hamirpur_I72_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[124/220] sensor_hamirpur_I72_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[125/220] sensor_hamirpur_I72_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[126/220] sensor_hamirpur_I72_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[127/220] sensor_hamirpur_I72_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[128/220] sensor_hamirpur_I512_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[129/220] sensor_hamirpur_I512_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[130/220] sensor_hamirpur_I512_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[131/220] sensor_hamirpur_I512_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[132/220] sensor_hamirpur_I512_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[133/220] 5e8_I12_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[134/220] 5e8_I12_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[135/220] 5e8_I12_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[136/220] 5e8_I24_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[137/220] 5e8_I24_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[138/220] 5e8_I24_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[139/220] 5e8_I24_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[140/220] 5e8_I48_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[141/220] 5e8_I48_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[142/220] 5e8_I48_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[143/220] 5e8_I48_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[144/220] 5e8_I48_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[145/220] 5e8_I72_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[146/220] 5e8_I72_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[147/220] 5e8_I72_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[148/220] 5e8_I72_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[149/220] 5e8_I72_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[150/220] 5e8_I512_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[151/220] 5e8_I512_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[152/220] 5e8_I512_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[153/220] 5e8_I512_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[154/220] 5e8_I512_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[155/220] ari-2172_I12_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[156/220] ari-2172_I12_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[157/220] ari-2172_I12_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[158/220] ari-2172_I24_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[159/220] ari-2172_I24_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[160/220] ari-2172_I24_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[161/220] ari-2172_I24_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[162/220] ari-2172_I48_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[163/220] ari-2172_I48_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[164/220] ari-2172_I48_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[165/220] ari-2172_I48_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[166/220] ari-2172_I48_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[167/220] ari-2172_I72_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[168/220] ari-2172_I72_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[169/220] ari-2172_I72_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[170/220] ari-2172_I72_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[171/220] ari-2172_I72_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[172/220] ari-2172_I512_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[173/220] ari-2172_I512_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[174/220] ari-2172_I512_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[175/220] ari-2172_I512_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[176/220] ari-2172_I512_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[177/220] ari-2263_I12_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[178/220] ari-2263_I12_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[179/220] ari-2263_I12_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[180/220] ari-2263_I24_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[181/220] ari-2263_I24_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[182/220] ari-2263_I24_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[183/220] ari-2263_I24_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[184/220] ari-2263_I48_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[185/220] ari-2263_I48_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[186/220] ari-2263_I48_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[187/220] ari-2263_I48_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[188/220] ari-2263_I48_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[189/220] ari-2263_I72_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[190/220] ari-2263_I72_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[191/220] ari-2263_I72_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[192/220] ari-2263_I72_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[193/220] ari-2263_I72_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[194/220] ari-2263_I512_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[195/220] ari-2263_I512_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[196/220] ari-2263_I512_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[197/220] ari-2263_I512_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[198/220] ari-2263_I512_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[199/220] pms5003-2018062702491_I12_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[200/220] pms5003-2018062702491_I12_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[201/220] pms5003-2018062702491_I12_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[202/220] pms5003-2018062702491_I24_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[203/220] pms5003-2018062702491_I24_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[204/220] pms5003-2018062702491_I24_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[205/220] pms5003-2018062702491_I24_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[206/220] pms5003-2018062702491_I48_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[207/220] pms5003-2018062702491_I48_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[208/220] pms5003-2018062702491_I48_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[209/220] pms5003-2018062702491_I48_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[210/220] pms5003-2018062702491_I48_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[211/220] pms5003-2018062702491_I72_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[212/220] pms5003-2018062702491_I72_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[213/220] pms5003-2018062702491_I72_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[214/220] pms5003-2018062702491_I72_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[215/220] pms5003-2018062702491_I72_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[216/220] pms5003-2018062702491_I512_H1
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[217/220] pms5003-2018062702491_I512_H12
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[218/220] pms5003-2018062702491_I512_H24
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[219/220] pms5003-2018062702491_I512_H48
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+[220/220] pms5003-2018062702491_I512_H72
+  ERRORE: ModuleNotFoundError("No module named 'torch'")
+
+Fatto. Previsioni in /unimore_home/trossi/chronos2_pm25/results/Y_cal_full/preds
+Prossimo passo: python 04_evaluate.py --tag Y_cal_full
